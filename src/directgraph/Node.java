@@ -1,3 +1,7 @@
+package directgraph;
+
+import directgraph.Edge;
+
 import java.util.LinkedList;
 import java.util.List;
 

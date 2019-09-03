@@ -1,3 +1,5 @@
+package directgraph;
+
 public class Edge {
     private String src;
     private String dest;
